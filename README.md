@@ -1,2 +1,2 @@
-# coursera-test.githhub.io
+# coursera-test.github.io
 Coursera test repository
